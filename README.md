@@ -13,5 +13,5 @@
 3.ในส่วนของ Game ตั้งความละเอียดหน้าจอเป็น 16:9 (1280x720)  
 
 ### ตัวอย่างเกม(กดที่ภาพเพื่อดูทีเซอร์ใน Youtube) :  
-![]()(https://youtu.be/rtwV9ODUxBg)
+[![](https://i.imgur.com/9TPc1kb.png)](https://youtu.be/rtwV9ODUxBg)
 
