@@ -1,4 +1,5 @@
-﻿# Republic-The-Tradition-of-Sarkhanland-Editor  
+﻿# Republic-The-Tradition-of-Sarkhanland-Editor
+![Republic-The-Tradition-of-Sarkhanland-Editor](https://i.imgur.com/YR1ut2O.png)
 เงื่อนไขการใช้งานเพื่อนำโปรเจคนี้ไปพัฒนาต่อได้ฟรี เพื่อส่งเสริมการปฏิรูปของแดนมาตุภูมิ  
 1.เกม The Tradition of Sarkhanland เป็น"เกมของเรา☭"ที่ถูกพัฒนาขึ้นเพื่อการศึกษาและอุดมการณ์ เมื่อพัฒนาเสร็จต้องแจกจ่ายให้สหายร่วมชาติเล่นได้ฟรี โดยห้ามสหายนำไปพัฒนาต่อในเชิงพาณิชญ์เพื่อตอบสนองต่อความละโมภในระบบทุนนิยมโดยเด็ดขาด(ห้ามขายเกมและDLC)  
 2.จงให้เกียรติผลงานชิ้นนี้โดยการที่ต้องมีชื่อต้นฉบับของโปรเจคไว้เสมอ และคั่นด้วย : ต่อด้วยชื่อภาคหรือชื่อมอดที่สหายนำไปพัฒนาต่อ เช่น The Tradition of Sarkhanland : Mod Nenhana หรือ The Tradition of Sarkhanland : Reverend Grandfather Golf เป็นต้น  
