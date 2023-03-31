@@ -11,6 +11,7 @@
 1.New Project เป็นเกม 2D และตั้งชื่อใน Project Name ตามนี้ The Tradition of Sarkhanland : (ชื่อโปรเจคของคุณ)  
 2.ในส่วนของ Menu Bar กด Asset>Import Package>Custom Package และเลือกไฟล์ Republic The Tradition of Sarkhanland Editor.unitypackage  
 3.ในส่วนของ Game ตั้งความละเอียดหน้าจอเป็น 16:9 (1280x720)  
+4.กดเข้าทุก Scene และในส่วนของ Menu Bar กด File>Build Settings>Add Open Scene ให้ทำแบบนี้ทุก Scene  
 
 ### ตัวอย่างเกม(กดที่ภาพเพื่อดูทีเซอร์ใน Youtube) :  
 [![](https://i.imgur.com/43JWZ2U.png)](https://youtu.be/rtwV9ODUxBg)
